@@ -8,7 +8,7 @@
 
 	<properties>
 		<org.springframework-version>3.1.1.RELEASE</org.springframework-version>
-    	<netty-version>4.0.0.Alpha8</netty-version>
+    	<netty-version>4.1.86.Final</netty-version>
 	</properties>
 
 	<dependencies>
